@@ -1,0 +1,11 @@
+# Ignore files ending with .log
+*.log
+# Ignore directory named 'logs'
+data_raw/
+logs/
+# Ignore all files in the 'temp' directory
+temp/*
+# Ignore a specific file
+secret.txt
+cleanup.ipynb
+# ignore all files in data cleanup
